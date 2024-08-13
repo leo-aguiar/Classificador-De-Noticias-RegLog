@@ -1,1 +1,1 @@
-# classificador-de-noticias-reglog
+# Classificador-De-Noticias-RegLog
